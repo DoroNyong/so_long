@@ -1,5 +1,6 @@
 # so_long
 <img width="800" height="450" alt="so_long" src="https://github.com/user-attachments/assets/1c6ee527-1e34-45cf-a1eb-04f05dba56ec" />
+
 ## 🖥️ 장르 : TPS 생존 게임 (싱글 플레이)
 사방에서 몰려드는 유령을 총으로 쏘면서 버티는 3D TPS 게임입니다.
 
