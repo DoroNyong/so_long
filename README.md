@@ -2,7 +2,7 @@
 <img width="800" height="450" alt="so_long" src="https://github.com/user-attachments/assets/1c6ee527-1e34-45cf-a1eb-04f05dba56ec" />
 
 
-> MiniLibX를 활용하여 밑바닥부터 구현한 2D 타일 기반 미로 탈출 게임
+> MiniLibX를 활용하여 구현한 2D 타일 기반 미로 탈출 게임
 
 ---
 
